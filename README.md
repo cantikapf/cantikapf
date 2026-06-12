@@ -6,7 +6,5 @@ I'm currently working on making [International Relations study guide website](ht
 
 Currently, I'm also writing on [Medium](https://medium.com/@cantikapf). Please check it out if you're interested ♥️
 
-If you want to reach me, you can send me an email [here](https://cantikaportfolio.site/contact.html) 
-
 ![](https://komarev.com/ghpvc/?username=cantikapf&style=flat-square)
 
